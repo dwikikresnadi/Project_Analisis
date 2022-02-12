@@ -1,2 +1,3 @@
-# Project_Analisis
-Project yang dilakukan untuk melakukan deksriptif analisis
+# Project Predict Car Price using Supervised Learning 
+
+## About Project
